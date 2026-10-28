@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hexel "Cluster" mark: three touching pointy-top hexagons (one on top, two below),
+     sized to stay inside the adaptive-icon safe zone (66dp circle in a 108dp canvas). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="@color/hexel_accent"
+        android:pathData="M54.00,57.57 L54.00,71.86 L41.63,79.00 L29.26,71.86 L29.26,57.57 L41.63,50.43 Z" />
+    <path
+        android:fillColor="@color/hexel_mid"
+        android:pathData="M78.74,57.57 L78.74,71.86 L66.37,79.00 L54.00,71.86 L54.00,57.57 L66.37,50.43 Z" />
+    <path
+        android:fillColor="@color/hexel_primary"
+        android:pathData="M66.37,36.14 L66.37,50.43 L54.00,57.57 L41.63,50.43 L41.63,36.14 L54.00,29.00 Z" />
+</vector>

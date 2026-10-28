@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Window-level theme. Everything visible is drawn by Compose; this only avoids a dark flash
+         on start and keeps the wallpaper hidden (Paper theme is an opaque white sheet). -->
+    <style name="Theme.Hexel" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/hexel_surface</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+</resources>

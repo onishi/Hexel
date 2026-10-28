@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hexel_primary">#4A90E2</color>
+    <color name="hexel_accent">#7ED3F4</color>
+    <color name="hexel_mid">#63B1EC</color>
+    <color name="hexel_surface">#F8FAFC</color>
+    <color name="hexel_border">#E4E9F0</color>
+    <color name="hexel_text">#1F2937</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>

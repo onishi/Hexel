@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hexel</string>
+    <string name="tagline">Your apps. Your space.</string>
+    <string name="hint">Flick to move. Swipe to launch.</string>
+    <string name="launch_failed">%1$s を起動できませんでした</string>
+    <string name="editor_title">スワイプの割り当て</string>
+    <string name="editor_hint">方向をタップして、起動するアプリを選択</string>
+    <string name="picker_title">%1$s に割り当てるアプリ</string>
+    <string name="unassign">割り当てを解除</string>
+    <string name="back">戻る</string>
+    <string name="not_installed">（未インストール）</string>
+    <string name="dir_east">右</string>
+    <string name="dir_north_east">右上</string>
+    <string name="dir_north_west">左上</string>
+    <string name="dir_west">左</string>
+    <string name="dir_south_west">左下</string>
+    <string name="dir_south_east">右下</string>
+</resources>
